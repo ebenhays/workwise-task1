@@ -1,5 +1,5 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
-import { CandidatesDto, EmploymentType, IFilter, JobLocation } from './dto';
+import { IFilter } from './dto';
 import candidate from "./data/candidate.json"
 
 @Injectable()

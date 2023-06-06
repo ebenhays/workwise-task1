@@ -1,0 +1,77 @@
+[
+    {
+        "fullName": "Ebenezer Casely Hayford",
+        "employmentType": "permanent employment",
+        "lastEmploymentRole": "Educator",
+        "lastEmploymentDate": "2022-04",
+        "currentRole": "Senior Engineer",
+        "lastRole": "Lead Engineer",
+        "currentCompany": "Collectivei",
+        "jobLocation": "karlsruhe",
+        "distanceFromLocation": "0km",
+        "skills": [
+            {
+                "lang": "PHP",
+                "ratings": 3
+            },
+            {
+                "lang": "Node.js",
+                "ratings": 3
+            },
+            {
+                "lang": "Docker",
+                "ratings": 2
+            }
+        ]
+    },
+    {
+        "fullName": "Esther Hayford",
+        "employmentType": "trainee",
+        "lastEmploymentRole": "Recruiter",
+        "lastEmploymentDate": "2020-01",
+        "currentRole": "Financial Consultant",
+        "lastRole": "Senior Recruiter",
+        "currentCompany": "Travis Systems",
+        "jobLocation": "freibug",
+        "distanceFromLocation": "10km",
+        "skills": [
+            {
+                "lang": "Communication",
+                "ratings": 3
+            },
+            {
+                "lang": "PHP",
+                "ratings": 1
+            },
+            {
+                "lang": "TypeScript",
+                "ratings": 1
+            }
+        ]
+    },
+    {
+        "fullName": "Tilman Germany",
+        "employmentType": "voluntary intenship",
+        "lastEmploymentRole": "Fields engineer",
+        "lastEmploymentDate": "2016-02",
+        "currentRole": "Senior Voluntary Consultant",
+        "lastRole": "Voluntary Assistance",
+        "currentCompany": "Workwise GMB",
+        "jobLocation": "karlsruhe",
+        "distanceFromLocation": "2km",
+        "skills": [
+            {
+                "lang": "Communication",
+                "ratings": 3
+            },
+            {
+                "lang": "TypeScript",
+                "ratings": 2
+            },
+            {
+                "lang": "Backend Development",
+                "ratings": 2
+            }
+        ]
+    }
+]
